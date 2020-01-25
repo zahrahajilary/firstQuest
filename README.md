@@ -15,6 +15,9 @@ $ npm run dev
 $ npm run build
 $ npm run start
 
+# for runing test
+$ npm run test
+
 # generate static project
 $ npm run generate
 ```
